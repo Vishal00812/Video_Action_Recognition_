@@ -8,10 +8,10 @@ The notebook implements a video action recognition model using deep learning tec
 ## Sample Videos
 
 ### Stand Up
-![Stand Up](\Video_Action_Recognition_\dataset_action_split\test\Stand up\video_85.avi)
+![Stand Up](Video_Action_Recognition_\dataset_action_split\test\Stand up\video_85.avi)
 
 ### Sit Down
-![Sit Down](\Video_Action_Recognition_\dataset_action_split\test\Sit down\video_7.avi)
+![Sit Down](Video_Action_Recognition_\dataset_action_split\test\Sit down\video_7.avi)
 
 ## How to Use
 
