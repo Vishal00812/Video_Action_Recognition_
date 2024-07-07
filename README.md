@@ -10,14 +10,14 @@ The notebook implements a video action recognition model using deep learning tec
 ### Stand Up
 
 <video width="320" height="240" controls>
-  <source src="/dataset_action_split\test\Stand up\video_85.avi" type="video/avi">
+  <source src="dataset_action_split\test\Stand up\video_85.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
 ### Sit Down
 
 <video width="320" height="240" controls>
-  <source src="/dataset_action_split\test\Sit down\video_7.avi" type="video/avi">
+  <source src="dataset_action_split\test\Sit down\video_7.avi" type="video/avi">
   Your browser does not support the video tag.
 </video>
 
