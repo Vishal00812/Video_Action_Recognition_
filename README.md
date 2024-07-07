@@ -10,11 +10,11 @@ The notebook implements a video action recognition model using deep learning tec
 
 ### Sit down
 
-![](200w.gif)
+ ![](https://github.com/Vishal00812/Video_Action_Recognition_/assets/104523618/df8b2f7d-1994-49b1-9059-9cda863294ae)
 
-### Stand up
+### Standup
 
-![](AppropriateDampJumpingbean-small.gif)
+![](https://github.com/Vishal00812/Video_Action_Recognition_/assets/104523618/d91bc6ac-df4d-429d-acff-2b75b52008e9)
 
 ## How to use
 
