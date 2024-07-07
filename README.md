@@ -8,10 +8,18 @@ The notebook implements a video action recognition model using deep learning tec
 ## Sample Videos
 
 ### Stand Up
-![Stand Up](Video_Action_Recognition_\dataset_action_split\test\Stand up\video_85.avi)
+
+<video width="320" height="240" controls>
+  <source src="Video_Action_Recognition_\dataset_action_split\test\Stand up\video_85.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
 ### Sit Down
-![Sit Down](Video_Action_Recognition_\dataset_action_split\test\Sit down\video_7.avi)
+
+<video width="320" height="240" controls>
+  <source src="Video_Action_Recognition_\dataset_action_split\test\Sit down\video_7.avi" type="video/avi">
+  Your browser does not support the video tag.
+</video>
 
 ## How to Use
 
